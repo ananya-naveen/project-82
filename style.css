@@ -1,0 +1,22 @@
+.body_background{
+    background-image: url(bg1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    color:salmon;
+}
+
+button{
+    width: 80;
+    font-size:large;
+    background-color: black;
+    color:white;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
